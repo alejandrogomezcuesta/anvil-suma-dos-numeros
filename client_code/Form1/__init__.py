@@ -13,5 +13,5 @@ class Form1(Form1Template):
 
     suma = numero1 + numero2
 
-    self.label_4.text = f"La suma de {numero1} y {numero2} es {suma}."
+    self.label_4.text = f"La suma de '{numero1}' y '{numero2}'' es: {suma}."
 

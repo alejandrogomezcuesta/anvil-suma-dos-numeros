@@ -1,7 +1,7 @@
 allow_embedding: false
-metadata: {title: Primera app}
-name: Primera app
-package_name: Primera_app
+metadata: {title: Anvil suma 2 números}
+name: Anvil suma 2 números
+package_name: Anvil_suma_2_n_meros
 runtime_options:
   client_version: '3'
   server_spec: {base: python310-minimal}
